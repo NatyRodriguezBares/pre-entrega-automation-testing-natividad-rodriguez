@@ -10,9 +10,22 @@ def test_verificar_inventario(driver):
     assert titulo == "Products", "No se muestra el título Products"
 
 
+
 def test_productos_visibles(driver):
     productos = driver.find_elements(By.CLASS_NAME, "inventory_item")
+
     assert len(productos) > 0, "No se encontraron productos visibles"
+
+    primer_producto = productos[0]
+    nombre = primer_producto.find_element(
+        By.CLASS_NAME, "inventory_item_name"
+    ).text
+    precio = primer_producto.find_element(
+        By.CLASS_NAME, "inventory_item_price"
+    ).text
+
+    print(f"Primer producto: {nombre} - Precio: {precio}")
+
 
 
 

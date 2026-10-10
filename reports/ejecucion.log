@@ -28,3 +28,60 @@
 2026-10-09 21:08:23 - INFO - ====== WebDriver manager ======
 2026-10-09 21:08:25 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
 2026-10-09 21:08:30 - INFO - PRUEBA APROBADA: test_cerrar_sesion
+2026-10-09 21:39:17 - INFO - ====== WebDriver manager ======
+2026-10-09 21:39:19 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:39:29 - INFO - PRUEBA APROBADA: test_verificar_inventario
+2026-10-09 21:39:32 - INFO - ====== WebDriver manager ======
+2026-10-09 21:39:33 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:39:38 - INFO - PRUEBA APROBADA: test_productos_visibles
+2026-10-09 21:39:41 - INFO - ====== WebDriver manager ======
+2026-10-09 21:39:43 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:39:47 - INFO - PRUEBA APROBADA: test_validar_interfaz
+2026-10-09 21:39:50 - INFO - ====== WebDriver manager ======
+2026-10-09 21:39:51 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:39:56 - INFO - PRUEBA APROBADA: test_anadir_producto_al_carrito
+2026-10-09 21:39:59 - INFO - ====== WebDriver manager ======
+2026-10-09 21:40:00 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:40:05 - INFO - PRUEBA APROBADA: test_verificar_contador_carrito
+2026-10-09 21:40:08 - INFO - ====== WebDriver manager ======
+2026-10-09 21:40:09 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:40:14 - INFO - PRUEBA APROBADA: test_navegar_al_carrito
+2026-10-09 21:40:17 - INFO - ====== WebDriver manager ======
+2026-10-09 21:40:18 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:40:23 - INFO - PRUEBA APROBADA: test_comprobar_producto_en_carrito
+2026-10-09 21:40:26 - INFO - ====== WebDriver manager ======
+2026-10-09 21:40:28 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:40:32 - INFO - PRUEBA APROBADA: test_ordenar_productos
+2026-10-09 21:40:35 - INFO - ====== WebDriver manager ======
+2026-10-09 21:40:37 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:40:42 - INFO - PRUEBA APROBADA: test_cerrar_sesion
+2026-10-09 21:43:04 - INFO - ====== WebDriver manager ======
+2026-10-09 21:43:06 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:43:13 - INFO - PRUEBA APROBADA: test_01_login
+2026-10-09 21:43:21 - INFO - ====== WebDriver manager ======
+2026-10-09 21:43:23 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:43:28 - INFO - PRUEBA APROBADA: test_verificar_inventario
+2026-10-09 21:43:31 - INFO - ====== WebDriver manager ======
+2026-10-09 21:43:32 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:43:38 - INFO - PRUEBA APROBADA: test_productos_visibles
+2026-10-09 21:43:41 - INFO - ====== WebDriver manager ======
+2026-10-09 21:43:43 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:43:48 - INFO - PRUEBA APROBADA: test_validar_interfaz
+2026-10-09 21:43:51 - INFO - ====== WebDriver manager ======
+2026-10-09 21:43:52 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:43:57 - INFO - PRUEBA APROBADA: test_anadir_producto_al_carrito
+2026-10-09 21:44:00 - INFO - ====== WebDriver manager ======
+2026-10-09 21:44:02 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:44:07 - INFO - PRUEBA APROBADA: test_verificar_contador_carrito
+2026-10-09 21:44:10 - INFO - ====== WebDriver manager ======
+2026-10-09 21:44:11 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:44:16 - INFO - PRUEBA APROBADA: test_navegar_al_carrito
+2026-10-09 21:44:19 - INFO - ====== WebDriver manager ======
+2026-10-09 21:44:20 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:44:25 - INFO - PRUEBA APROBADA: test_comprobar_producto_en_carrito
+2026-10-09 21:44:28 - INFO - ====== WebDriver manager ======
+2026-10-09 21:44:29 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:44:34 - INFO - PRUEBA APROBADA: test_ordenar_productos
+2026-10-09 21:44:37 - INFO - ====== WebDriver manager ======
+2026-10-09 21:44:38 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:44:43 - INFO - PRUEBA APROBADA: test_cerrar_sesion
