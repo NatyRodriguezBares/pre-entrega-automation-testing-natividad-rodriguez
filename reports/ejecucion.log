@@ -1,0 +1,30 @@
+2026-10-09 21:06:58 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:00 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:07:06 - INFO - PRUEBA APROBADA: test_01_login
+2026-10-09 21:07:09 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:11 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:07:15 - INFO - PRUEBA APROBADA: test_verificar_inventario
+2026-10-09 21:07:18 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:20 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:07:24 - INFO - PRUEBA APROBADA: test_productos_visibles
+2026-10-09 21:07:28 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:29 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:07:34 - INFO - PRUEBA APROBADA: test_validar_interfaz
+2026-10-09 21:07:37 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:38 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:07:43 - INFO - PRUEBA APROBADA: test_anadir_producto_al_carrito
+2026-10-09 21:07:46 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:47 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:07:52 - INFO - PRUEBA APROBADA: test_verificar_contador_carrito
+2026-10-09 21:07:55 - INFO - ====== WebDriver manager ======
+2026-10-09 21:07:57 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:08:02 - INFO - PRUEBA APROBADA: test_navegar_al_carrito
+2026-10-09 21:08:04 - INFO - ====== WebDriver manager ======
+2026-10-09 21:08:06 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:08:11 - INFO - PRUEBA APROBADA: test_comprobar_producto_en_carrito
+2026-10-09 21:08:14 - INFO - ====== WebDriver manager ======
+2026-10-09 21:08:15 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:08:20 - INFO - PRUEBA APROBADA: test_ordenar_productos
+2026-10-09 21:08:23 - INFO - ====== WebDriver manager ======
+2026-10-09 21:08:25 - INFO - Driver [C:\Users\Usuario\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-09 21:08:30 - INFO - PRUEBA APROBADA: test_cerrar_sesion
